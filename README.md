@@ -1,4 +1,4 @@
-# Code for the Paper publised on IEEE ACCESS
+# Code for the Paper *Typical Algorithms for Estimating Hurst Exponent of Time Sequence: A Data Analyst’s Perspective* publised on IEEE ACCESS
 - **Author**:  Hong-Yan Zhang, Zhi-Qiang Feng, Si-Yu Feng, and  Yu Zhou
 - **Title**: *Typical Algorithms for Estimating Hurst Exponent of Time Sequence: A Data Analyst’s Perspective*
 - **Journal**: IEEE Access
