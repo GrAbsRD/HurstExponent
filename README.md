@@ -3,4 +3,4 @@
 - **Title**: *Typical Algorithms for Estimating Hurst Exponent of Time Sequence: A Data Analyst’s Perspective*
 - **Journal**: IEEE Access
 - **Date**: Dec. 2024
-- **Download Link**: https://ieeexplore.ieee.org/document/10781313
+- **Download Link for the paper**: https://ieeexplore.ieee.org/document/10781313
